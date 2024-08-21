@@ -1,3 +1,3 @@
-# Master-Thesis
+# Tesi Magistrale
 
 Potenzialità e sfide nell’analisi formale di protocolli per l’identità digitale con Tamarin
